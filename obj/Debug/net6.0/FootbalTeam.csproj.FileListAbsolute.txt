@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FootbalTeam\bin\Debug\net6.0\FootbalTeam.exe
+C:\Users\User\source\repos\FootbalTeam\bin\Debug\net6.0\FootbalTeam.deps.json
+C:\Users\User\source\repos\FootbalTeam\bin\Debug\net6.0\FootbalTeam.runtimeconfig.json
+C:\Users\User\source\repos\FootbalTeam\bin\Debug\net6.0\FootbalTeam.dll
+C:\Users\User\source\repos\FootbalTeam\bin\Debug\net6.0\FootbalTeam.pdb
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.AssemblyInfo.cs
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.dll
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\refint\FootbalTeam.dll
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.pdb
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\FootbalTeam.genruntimeconfig.cache
+C:\Users\User\source\repos\FootbalTeam\obj\Debug\net6.0\ref\FootbalTeam.dll
